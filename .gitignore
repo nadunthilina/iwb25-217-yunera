@@ -1,1 +1,10 @@
-# placeholder
+node_modules/
+dist/
+build/
+target/
+.vscode/
+.DS_Store
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
